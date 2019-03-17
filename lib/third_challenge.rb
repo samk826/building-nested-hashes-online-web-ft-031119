@@ -24,7 +24,7 @@ def third_challenge
         :attitude => "hot-headed"
       }
     ]
-   }, 
+   },
    :capulet => {
       :patriarch => {
         :name => "Lord Capulet",
@@ -53,5 +53,5 @@ def third_challenge
    }
   }
 
-  
+
 end
